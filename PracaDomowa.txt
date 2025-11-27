@@ -1,0 +1,8 @@
+Zadanie 1
+Blok try zawiera kod, który może rzucić wyjątek, a catch przechwytuje i obsługuje konkretny wyjątek. finally wykonuje się zawsze po try/catch (nawet przy return) i najczęściej używa się go do zwalniania zasobów (zamknięcie plików/połączeń).
+
+Zadanie 2
+Dziedziczenie pozwala jednej klasie (podklasie) przejąć pola i metody innej (nadklasy), co umożliwia ponowne użycie kodu. Ułatwia rozbudowę kodu przez dodawanie lub nadpisywanie metod i stosowanie polimorfizmu.
+
+Zadanie 3
+Tablica (array) w Javie może przechowywać najprostsze typy danych, takie jak int, boolean czy char. Natomiast ArrayList to dynamiczna lista, którą można łatwo powiększać/zmniejszać i która przechowuje obiekty. Tablicy lepiej użyć gdy znamy rozmiar i zależy nam na wydajności, a ArrayList gdy potrzebujemy elastyczności i gotowych metod (add/remove).
